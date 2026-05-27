@@ -1,6 +1,6 @@
 # MyVector — Custom STL-Compliant Vector in C++
 
-A from-scratch implementation of `std::vector` in C++17, demonstrating deep understanding of low-level memory management, the Rule of Five, template metaprogramming, and modern C++ idioms.
+A from-scratch implementation of `std::vector` in modern C++, demonstrating deep understanding of low-level memory management, the Rule of Five, template metaprogramming, and modern C++ idioms.
 
 ---
 
